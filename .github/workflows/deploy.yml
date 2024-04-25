@@ -43,7 +43,7 @@ jobs:
         REMOTE_DIR: ${{ secrets.FIRAS_REMOTE_TARGET }}
         LOCAL_DIR: "_build/html/"
         COURSE_NAME: "cpsc455"
-        TERM: "2024_S"
+        TERM: "2024S"
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
