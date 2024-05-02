@@ -1,7 +1,4 @@
-This course will be a LOT of fun, you'll get lots of practice doing a lot of Python, and you'll learn some cool things.
-
-By the end of the course, you'll (hopefully) feel super comfortable with algorithms and programming.
-Strap in, it will be a wild ride!!
+This course will be a LOT of fun, you'll get lots of practice writing a lot of code, and you'll learn some cool things from industry folks.
 
 <!-- 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

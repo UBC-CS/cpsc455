@@ -55,6 +55,11 @@ All course content, references, and resources provided in this course are free a
 ## Learning Intentions
 (learning-intentions)=
 ```{include} syllabus_bits/course_LOs.md
+```
+
+## Equity, Inclusion, and Wellness
+(equity_inclusion_wellness)=
+```{include} unsyllabus_bits/equity_inclusion_wellness.md
 ``` 
 
 <div class="page_break"> </div>
