@@ -74,9 +74,9 @@ The tentative course schedule, subject to change, can be found on the {{ '[cours
 
 ### Project Groups
 
-Your course project will be completed in a **group of five**. All members of the group must be registered in the same lab section!
+Your course project will be completed in a **group of four**. All members of the group must be registered in the same lab section!
 
-We are open to discussing groups of four or six in extraordinary cases (including where the our lab size just isn’t divisible by five!), but do not plan or expect to have a group size besides five.
+We are open to discussing groups of three or five in extraordinary cases (including where the our lab size just isn’t divisible by four!), but do not plan or expect to have a group size besides four.
 
 ### Absences
 
