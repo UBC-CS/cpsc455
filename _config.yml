@@ -60,8 +60,10 @@ sphinx:
 
     myst_substitutions:
       # Instructor information
-      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him) and Ian"
-      PRONOUNCE: "Fur-az Moose-vee"
+      INSTRUCTOR1: "Ian McLean"
+      PRONOUNCE1: "Ian McLean"
+      INSTRUCTOR2: "and Dr. Firas Moosvi (he/his/him)"
+      PRONOUNCE2: "Fur-az Moose-vee"
       OFFICE: "ICCS 253"
       PHONE: "N/A"
 
@@ -83,7 +85,7 @@ sphinx:
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
       COURSE_LINK: "https://firas.moosvi.com/courses/cpsc455/2024_S/"
-      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/xyhhmY)"
+      FORUM_LINK: "[Slack](https://join.slack.com/t/newworkspace-bz53941/shared_invite/zt-2i89ksn6q-nJRuc~mdruIMpTqDv93aIw)"
       TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website and linked materials."
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/?course=cpsc455&term=2024_S)"
       ASSOCIATE_HEAD: "Associate Head [associate.head@fakeemail.ca](mailto:associate.head@fakeemail.ca)"
@@ -91,18 +93,24 @@ sphinx:
 
       # Withdrawal Dates and Exam Period
       # https://vancouver.calendar.ubc.ca/dates-and-deadlines
-      W_DATE_1: "11:59 PDT on January 19, 2024"
-      W_DATE_2: "11:59 PDT on March 1, 2024"
-      W_DATE_3: "11:59 PDT on March 1, 2024"
-      EXAM_PERIOD: "Tuesday April 16th - Saturday, April 27"
+      W_DATE_1: "11:59 PDT on May 27, 2024"
+      W_DATE_2: "11:59 PDT on July 5, 2024"
+      W_DATE_3: "11:59 PDT on July 5, 2024"
+      EXAM_PERIOD: "Monday June 23 - 27 (Term 1) and Tuesday Aug 12 - 16 (Term 2)"
 
       # Course Policies
       GRACE_PERIOD: "48 hour"
 
       # TA Names
-      TA1: "Braeden Fong"
-      TA1pronounce: "BRAY-DIN"
-      TA2: "Manushree Singhania"
-      TA2pronounce: "MA-NU-SHREE"
-      TA3: "Minh Anh Nguyen"
-      TA3pronounce: "Ming Ang"
+      TA1: "Mahmoud Al Khatib"
+      TA1pronounce: "Mahmoud Al Khatib"
+      TA2: "Justin Jao"
+      TA2pronounce: "Justin Jao"
+      TA3: "Michelle Kim"
+      TA3pronounce: "Michelle Kim"
+      TA4: "Yixuan Li"
+      TA4pronounce: "Yixuan Li"
+      TA5: "Davis Song"
+      TA5pronounce: "Davis Song"
+      TA6: "Cathy Yang"
+      TA6pronounce: "Cathy Yang"

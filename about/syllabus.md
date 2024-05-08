@@ -5,13 +5,7 @@
 # Course Syllabus (Official)
 
 Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
-Elements of this document are **fixed** and unchanging.
-Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
-
-## Land Acknowledgement
-
-```{include} syllabus_bits/land_acknowledgement.md
-```
+<!-- Elements of this document are **fixed** and unchanging. -->
 
 ## Course Information
 
@@ -25,9 +19,10 @@ For information on how to contact your course instructor, including office hours
 ```{include} syllabus_bits/calendar_entry.md
 ```
 
-## Other Instructional Staff
+## Contact Us
 
-For information on this, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
+```{include} syllabus_bits/teaching_team.md
+```
 
 ## Learning Outcomes
 
@@ -36,53 +31,89 @@ The Learning Outcomes for this course are:
 ```{include} syllabus_bits/course_LOs.md
 ```
 
+```{include} syllabus_bits/course_teaser.md
+```
+
 More details about the course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Schedule of Topics
+## Learning Materials
+
+There is no requirement to purchase textbooks or any other materials for this course.
+However, it may be difficult to complete the course successfully without your own computer. Many of the resources we use are cloud-based; so, lab, library, and other public computers may suffice, but you’ll need to be very careful with your time and planning.
+We will require you to register with and use various online resources that may only be available on servers outside Canada. If this is an issue for you, please raise it with the course staff immediately by the end of the first workshop.
+For a rundown of likely tools and systems used this term, please see the course schedule.
+
+## Course Schedule
 
 The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}. 
 
 ```{include} syllabus_bits/schedule.md
 ```
 
-## Course Structure
+## Evaluation
 
-For information on this, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
-
-## Learning Activities
-
-For information on this, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
-
-## Learning Materials
-
-There is no requirement to purchase textbooks or any other materials for this course.
-Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
-
-## Assessments of Learning
-
-```{include} syllabus_bits/grading_practices_simple.md
+```{include} unsyllabus_bits/grading_practices_detailed.md
 ```
+
+## Equity, Inclusion, and Wellness
+
+```{include} unsyllabus_bits/equity_inclusion_wellness.md
+``` 
 
 ## Passing Criteria
 
 ```{include} syllabus_bits/passing_requirement.md
 ```
 
-## Late Policy and Missed Assignments and Exams
+## Course Policies
 
-Due dates in this course have a generous no-penalty {{ GRACE_PERIOD }} grace period so late submissions are not generally accepted.
-Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
-To contact the instructor for this course, use {{ FORUM_LINK }}.
-Details on due dates and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+### Students on the Waitlist
 
-## Learning Analytics
-
-```{include} syllabus_bits/learning_analytics.md
+```{include} waitlist.md
 ```
 
-## Learning Resources
+### Project Groups
 
-For information on this, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
+Your course project will be completed in a **group of five**. All members of the group must be registered in the same lab section!
+
+We are open to discussing groups of four or six in extraordinary cases (including where the our lab size just isn’t divisible by five!), but do not plan or expect to have a group size besides five.
+
+### Absences
+
+```{include} unsyllabus_bits/missed_things.md
+```
+
+### Late submissions
+
+```{include} unsyllabus_bits/late_submissions.md
+```
+
+### Collaboration and Academic Misconduct
+
+```{include} unsyllabus_bits/misconduct.md
+```
+
+### Privacy, Online Systems, and CS Alias
+
+```{include} unsyllabus_bits/privacy.md
+```
+
+### Communication
+
+```{include} unsyllabus_bits/communication.md
+```
+
+## Acknowledgements
+
+```{include} unsyllabus_bits/acknowledgements.md
+```
+
+## Land Acknowledgement
+
+```{include} syllabus_bits/land_acknowledgement.md
+```
+
+## UBC Policies
 
 ```{include} syllabus_bits/policies.md
 ```

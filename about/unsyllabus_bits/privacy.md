@@ -1,0 +1,3 @@
+We will require you to register with a variety of web-based tools that may be hosted outside Canada. In some cases, we may register you directly for such services using your @ugrad.cs.ubc.ca email alias (as listed in https://www.cs.ubc.ca/getacct).
+
+Thus, we want to remind you to keep your @ugrad alias private, just as you would any other account information. If you choose not to keep your @ugrad alias confidential, please note that UBC will proceed on the assumption that you do not object to the services we use potentially identifying you personally, and that you are consenting to the storage of personal information on their servers outside Canada.

@@ -1,10 +1,9 @@
 | Item             | Weight | Frequency  |
 |------------------|--------|------------|
-| Team Project     | 40%    | Bi-monthly |
+| Team Project     | 50%    | Bi-monthly |
 | Lab Assignments  | 30%    | Bi-monthly |
 | Participation    | 11%    | Weekly     |
 | Teamwork         | 9%     | Twice      |
-| Self Reflections | 10%    | Weekly     |
 
 
 Final grades will be based on the evaluations listed above and the final grade will be assigned according to the standardized grading system outlined in the [UBC Calendar](https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/grading-practices/introduction).

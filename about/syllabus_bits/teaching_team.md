@@ -1,6 +1,10 @@
-| Team Member                  | Pronounce as       | Contact          | Office Hour                                                                                                            |
-|------------------------------|--------------------|------------------|------------------------------------------------------------------------------------------------------------------------|
-| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }}    | {{ FORUM_LINK }} | Wednesdays 12:30 - 2:30 PM - ICCS 253 or [Zoom](https://ubc.zoom.us/j/6552557192?pwd=SGthMW10cTNBTVpaYitJZ0RMWkdmdz09) |
-| {{ TA3 }}                    | {{ TA3pronounce }} | {{ FORUM_LINK }} | [Mondays 1:30-2:30 PM in X339 and on Zoom](https://ubc.zoom.us/j/8465268502?pwd=U2ZpWWVkNG1JS2E5UzNvOEZZRHFyZz09)                                                                           |
-| {{ TA2 }}                    | {{ TA2pronounce }} | {{ FORUM_LINK }} | [Thursdays 1-2 PM on Zoom](https://ubc.zoom.us/s/62998255720)                                                          |
-| {{ TA1 }}                    | {{ TA1pronounce }} | {{ FORUM_LINK }} | Fridays 12-1 PM - ICCS X337 [or on Zoom](https://ubc.zoom.us/s/61966832541)                                                           |
+| Team Member                   | Pronounce as       | Contact          | Office Hour |
+|-------------------------------|--------------------|------------------|-------------|
+| {{ INSTRUCTOR1 }}; Instructor | {{ PRONOUNCE1}}    | {{ FORUM_LINK }} |             |
+| {{ INSTRUCTOR2 }}; Instructor | {{ PRONOUNCE2 }}   | {{ FORUM_LINK }} |             |
+| {{ TA6 }}                     | {{ TA6pronounce }} | {{ FORUM_LINK }} |             |
+| {{ TA5 }}                     | {{ TA5pronounce }} | {{ FORUM_LINK }} |             |
+| {{ TA4 }}                     | {{ TA4pronounce }} | {{ FORUM_LINK }} |             |
+| {{ TA3 }}                     | {{ TA3pronounce }} | {{ FORUM_LINK }} |             |
+| {{ TA2 }}                     | {{ TA2pronounce }} | {{ FORUM_LINK }} |             |
+| {{ TA1 }}                     | {{ TA1pronounce }} | {{ FORUM_LINK }} |             |

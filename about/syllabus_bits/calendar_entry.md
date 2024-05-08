@@ -1,11 +1,9 @@
 **{{ COURSE_CODE }} ({{ CREDITS }}) {{ TITLE }}**
 
-The [UBC calendar description](https://vancouver.calendar.ubc.ca/course-descriptions/subject/phys) of this course is: 
+The [UBC calendar description](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpsc) of this course is: 
 
-> Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering.
-> Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences.
-> Credit will be granted for only one of PHYS 111 and PHYS 112. Students with Physics 12 may apply for a tutorial exemption. [3-3-1]
-> 
+> Hands-on project, mentored by industry experts, integrating skills relevant to early career in the computing industry: technical skills, communication, teamwork, networking and portfolio building. [2.5-2-0]
+>
 > *Prerequisite*: {{ PREREQS }}
 > 
 > *Corequisite*: {{ COREQS }}

@@ -2,10 +2,9 @@ The grading scheme for this course is:
 
 | Item             | Weight        | Due date(s)     |
 |------------------|---------------|-----------------|
-| Self Reflections | 10% (10 x 1%) | Fridays at 6 PM |
+| Team Project     | 50% (5 x 8%)  | Bi-monthly      |
 | Lab Assignments  | 30% (6 x 5%)  | TBD             |
 | Participation    | 11% (11 x 1%) | Weekly          |
-| Team Project    | 40% (5 x 8%)  | Bi-monthly      |
 | Teamwork         | 9% (2 x 4.5%) | TBD             |
 
 ```{attention}
