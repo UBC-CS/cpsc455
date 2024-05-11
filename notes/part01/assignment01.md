@@ -52,7 +52,7 @@ HAVE FUN!!!
 
 ## Grading Rubric
 
-You can see the grading rubric her:
+You can see the [grading rubric here](https://www.students.cs.ubc.ca/~cs-455/2024_S/notes/part01/assignment01.html):
 
 ## Frequently Asked Questions
 
