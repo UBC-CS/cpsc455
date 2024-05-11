@@ -16,10 +16,9 @@ parts:
   chapters:
     - file: notes/part01/workshop01
       title: Workshop 1
+    - file: notes/part01/assignment01
     - file: notes/part01/lab01A
     - file: notes/part01/lab01B
-
-
 
 
 - caption: Course Feedback
