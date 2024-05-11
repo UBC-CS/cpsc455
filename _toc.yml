@@ -20,6 +20,11 @@ parts:
     - file: notes/part01/lab01A
     - file: notes/part01/lab01B
 
+- caption: Course Project
+  chapters:
+  - file: notes/project/team_formation
+  - file: notes/project/progress01
+
 
 - caption: Course Feedback
   chapters:
