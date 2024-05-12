@@ -2,7 +2,7 @@ Course communication will be a combination of face-to-face and on Zoom (in works
 
 Slack is an industry-standard communication tool for teams, and learning to use it is a course goal! Indeed, participation on Slack will factor into your participation grade for the course. As a rule, we prefer even private correspondence to go over Slack. (You and your group may have a primary Slack point-of-contact on the course staff assigned to you.)
 
-Our preferred mode of communication is: Create a single chat with all 3 course instructors (Ian and Firas), and send your message there. We will get back to you there.
+Our preferred mode of communication is: Create a single chat with all course instructors (Ian and Firas), and send your message there. We will get back to you there.
 
 ```{tip}
 **DO NOT MESSAGE US INDIVIDUALLY** ; we will just direct you to send a message to all instructors.
