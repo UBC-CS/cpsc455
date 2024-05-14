@@ -8,3 +8,7 @@
 ## Lab 1A Activity
 
 The [GitHub classroom link for the activity is here](https://classroom.github.com/a/zsRR7YRR )
+
+## Git Workflow and Overview
+
+Here is the [Git Overview/Workflow document](../files/git_overview_workflow.pdf).
