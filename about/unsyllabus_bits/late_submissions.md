@@ -4,10 +4,21 @@ A few components have specific additional rules, see below.
 
 ### Individual Assignments
 
-Individual assignments are graded by a live demo. As a result, managing late assignments is rather burdensome! We do allow a single late submission to be graded by demo at the next Saturday workshop (last repo push Friday night) with an ostensible 20% point deduction for being late. If you need to take this option, you must contact us privately and reasonably promptly so we can plan for the late demo. However, note:
+Individual assignments are graded by a live demo. As a result, managing late assignments is rather burdensome! 
+We have a fairly generous late policy when it comes to the individual assignments:
+
+- first late - no penalty
+- second late - 30% penalty
+- third late - assignment gets 0
+
+Once an assignment is late, you can submit your assignment by Friday at 10PM without incurring further penalties.
+You don't need to do anything to let us know about this, just submit your late assignment by Friday at 10PM and you'll be graded either at the end of workshop or the following week in the labs (if we run out of time at the end of workshop).
+
+<!-- We do allow a single late submission to be graded by demo at the next Saturday workshop (last repo push Friday night) with an ostensible 20% point deduction for being late. If you need to take this option, you must contact us privately and reasonably promptly so we can plan for the late demo. However, note:
 
 - The 20% point penalty is just to disincentivize being late. We expect to waive it if late submissions don’t get abused.
 - On the other hand, if you are late more than once, we may impose additional penalties or disallow further late submissions. If the logistics of late assignments prove too challenging, we may stop accepting late assignments 🙁.
+-->
 
 ### Scrum reports
 
