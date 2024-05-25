@@ -19,6 +19,7 @@ parts:
     - file: notes/part01/assignment01
     - file: notes/part01/lab01A
     - file: notes/part01/lab01B
+    - file: notes/part02/workshop02
 
 - caption: Course Project
   chapters:
