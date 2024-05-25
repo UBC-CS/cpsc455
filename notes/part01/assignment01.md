@@ -47,7 +47,6 @@ It’s up to you! We’re hoping that you’ll use the above requirements as a g
 
 You should be ready to demo this to a TA during your second week lab, and should be ready to answer questions about it, as well as explain in detail what you’ve completed. You should also be ready to answer general questions about the lecture.
 
-
 HAVE FUN!!!
 
 ## Grading Rubric

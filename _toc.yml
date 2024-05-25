@@ -25,6 +25,8 @@ parts:
   chapters:
     - file: notes/part02/workshop02
       title: Workshop 2
+    - file: notes/part02/assignment02
+
 
 - caption: Course Project
   chapters:
