@@ -19,7 +19,12 @@ parts:
     - file: notes/part01/assignment01
     - file: notes/part01/lab01A
     - file: notes/part01/lab01B
+
+- caption: Part 2 - React
+  maxdepth: 1
+  chapters:
     - file: notes/part02/workshop02
+      title: Workshop 1
 
 - caption: Course Project
   chapters:
