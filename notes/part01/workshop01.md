@@ -13,6 +13,6 @@ Below are the slides from today's class embedded and [linked here]().
 
 <div>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcq46TkhZlwQORNVwJZ3ifK3s4Ken5Rvs0xqlPWf0lkS1CBejgliy1MFhpzLncFK1uS3tyXJkzCz5j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcq46TkhZlwQORNVwJZ3ifK3s4Ken5Rvs0xqlPWf0lkS1CBejgliy1MFhpzLncFK1uS3tyXJkzCz5j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>

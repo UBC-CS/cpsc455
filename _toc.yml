@@ -24,7 +24,7 @@ parts:
   maxdepth: 1
   chapters:
     - file: notes/part02/workshop02
-      title: Workshop 1
+      title: Workshop 2
 
 - caption: Course Project
   chapters:
