@@ -1,4 +1,4 @@
-# Workshop 1: Saturday May 25, 2024
+# Workshop 2: Saturday May 25, 2024
 
 Below are the slides from today's class embedded and [linked here]().
 
