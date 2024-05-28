@@ -1,32 +1,33 @@
 format: jb-book
 root: about/syllabus
 parts:
-- caption: About this course
-  chapters:
-  # - file: about/syllabus
-  - file: about/course_schedule
-  - file: about/rubrics
-  - file: about/waitlist
-  # - file: about/accommodations
-  # - file: about/doing_well
-  # - file: about/faq
+  - caption: About this course
+    chapters:
+      # - file: about/syllabus
+      - file: about/course_schedule
+      - file: about/rubrics
+      - file: about/waitlist
+    # - file: about/accommodations
+    # - file: about/doing_well
+    # - file: about/faq
 
-- caption: Part 1 - Getting Started
-  maxdepth: 1
-  chapters:
-    - file: notes/part01/workshop01
-      title: Workshop 1
-    - file: notes/part01/assignment01
-    - file: notes/part01/lab01A
-    - file: notes/part01/lab01B
-
+  - caption: Part 1 - Getting Started
+    maxdepth: 1
+    chapters:
+      - file: notes/part01/workshop01
+        title: Workshop 1
+      - file: notes/part01/assignment01
+      - file: notes/part01/lab01A
+      - file: notes/part01/lab01B
+      
 - caption: Part 2 - React
   maxdepth: 1
   chapters:
     - file: notes/part02/workshop02
       title: Workshop 2
     - file: notes/part02/assignment02
-
+    - file: notes/part02/lab02A
+    - file: notes/part02/lab02B
 
 - caption: Course Project
   chapters:
@@ -34,13 +35,15 @@ parts:
   - file: notes/project/progress01
   - file: notes/project/progress02
 
+  - caption: Course Project
+    chapters:
+      - file: notes/project/team_formation
+      - file: notes/project/progress01
 
-
-- caption: Course Feedback
-  chapters:
-  - file: about/feedback
-    title: Anonymous Feedback Form
-
+  - caption: Course Feedback
+    chapters:
+      - file: about/feedback
+        title: Anonymous Feedback Form
 # - caption: Tools
 #   chapters:
 #   - file: tools/ed_discussion/ed_discussion
