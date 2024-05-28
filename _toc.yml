@@ -19,15 +19,21 @@ parts:
       - file: notes/part01/assignment01
       - file: notes/part01/lab01A
       - file: notes/part01/lab01B
+      
+- caption: Part 2 - React
+  maxdepth: 1
+  chapters:
+    - file: notes/part02/workshop02
+      title: Workshop 2
+    - file: notes/part02/assignment02
+    - file: notes/part02/lab02A
+    - file: notes/part02/lab02B
 
-  - caption: Part 2
-    maxdepth: 1
-    chapters:
-      #    - file: notes/part02/workshop01
-      #      title: Workshop 2
-      #    - file: notes/part02/assignment01
-      - file: notes/part02/lab02A
-      - file: notes/part02/lab02B
+- caption: Course Project
+  chapters:
+  - file: notes/project/team_formation
+  - file: notes/project/progress01
+  - file: notes/project/progress02
 
   - caption: Course Project
     chapters:
