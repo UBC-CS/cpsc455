@@ -33,6 +33,7 @@ parts:
   chapters:
   - file: notes/project/team_formation
   - file: notes/project/progress01
+  - file: notes/project/progress02
 
 - caption: Course Feedback
   chapters:
