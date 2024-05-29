@@ -29,6 +29,26 @@ parts:
     - file: notes/part02/lab02A
     - file: notes/part02/lab02B
 
+# - caption: Part 3 - NodeJS
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/part03/lab03B
+
+# - caption: Part 4 - MongoDB
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/part04/lab4B
+
+# - caption: Part 5 - Release Engineering
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/part05/lab05B
+
+# - caption: Part 6 - Networking
+#   maxdepth: 1
+#   chapters:
+#     - file: notes/part06/lab06B
+
 - caption: Course Project
   chapters:
   - file: notes/project/team_formation
