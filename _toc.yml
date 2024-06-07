@@ -29,6 +29,13 @@ parts:
     - file: notes/part02/lab02A
     - file: notes/part02/lab02B
 
+- caption: Part 3 - Node
+  maxdepth: 1
+  chapters:
+    - file: notes/part03/workshop03
+      title: Workshop 3
+    - file: notes/part03/assignment03
+
 - caption: Course Project
   chapters:
   - file: notes/project/team_formation
