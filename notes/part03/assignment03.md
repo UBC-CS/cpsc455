@@ -1,6 +1,6 @@
-# Assignment 2
+# Assignment 3
 
-Your Assignment 2 work should be done in the general assignment repo you accepted last week. If you haven't yet accepted it, you can [do so here](https://classroom.github.com/a/aS7pjGjo).
+Your Assignment 3 work should be done in the general assignment repo you accepted last week. If you haven't yet accepted it, you can [do so here](https://classroom.github.com/a/aS7pjGjo).
 
 ## Details
 
@@ -29,6 +29,7 @@ For the third assignment, you’ll be adding more functionality to your member w
 6. Basic styling. (Do not spend too much time on this, and re-use as much as you’d like from Assignment 1! You will not be graded on Unit 1 material.)
 
 7. Something cool and extra! This is wide open for you to explore, and try to push your knowledge and boundaries. **Must use Unit 3 technology to complete this requirement.**
+
 For example:
  - Ability to edit a member(PUT or PATCH)
  - Ability to fetch extra information when the member is clicked (not already fetched from server)
@@ -40,7 +41,6 @@ As described in the individual assignment rubric, your code will need to meet th
 It’s up to you! We’re hoping that you’ll use the above requirements as a guide, but that you’ll let your imagination take over, and build something unique and interesting!
 
 You should be ready to demo this to a TA during your second week lab, and should be ready to answer questions about the technology, as well as explain what you’ve done.
-
 
 HAVE FUN!!!
 
