@@ -20,5 +20,5 @@ That's it !
 ## Technical Content slides
 
 <div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7snQSguwQRYDmRvqm0i_vnMkXle57LnVtHg9yVM4hLkc8CARqz_6VbYktBy7OihPERYbUL4J0wynh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
