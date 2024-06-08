@@ -41,6 +41,7 @@ parts:
   - file: notes/project/team_formation
   - file: notes/project/progress01
   - file: notes/project/progress02
+  - file: notes/project/progress03
 
 - caption: Course Feedback
   chapters:
