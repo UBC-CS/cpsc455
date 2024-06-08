@@ -1,6 +1,6 @@
 # Workshop 3: Saturday June 8, 2024
 
-Below are the slides from today's class embedded and [linked here]().
+Below are the slides from today's class embedded and [linked here](https://docs.google.com/presentation/d/1AAfZtwk5tG38X3q-Q_kQuI8mml_ma95-eAKbWZUrTco/edit?usp=sharing).
 
 ## Pre-Workshop Tasks
 
