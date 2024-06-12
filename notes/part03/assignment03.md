@@ -17,7 +17,7 @@ For the third assignment, you’ll be adding more functionality to your member w
 2. Store your initial member data as JSON on your server side. (You still don’t have a DB at this stage, so your web app will revert to this default list every time you restart your server.)
 
 
-3. The initial member data should be loaded using a GET request to your server when your web page loads.
+3. The member data should be loaded using a GET request to your server when your web page loads.
 
 
 4. Ability to add a new member using a POST request.
