@@ -18,11 +18,12 @@ Students must have extensive consultations with the course staff in advance of a
 
 During these consultations, students may be recommended to withdraw from the course if the teaching team feels the absence would be too disruptive.
 ```
-
+<!-- 
 ```{attention} 
 All due dates in this course have an automatic {{ GRACE_PERIOD }} grace period after the due dates listed above.
 Any submissions submitted past the grace period will not be graded (with some exceptions).
 ```
+-->
 
 <!-- 
 ```{note}
