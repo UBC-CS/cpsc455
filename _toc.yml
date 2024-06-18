@@ -36,7 +36,7 @@ parts:
       title: Workshop 3
     - file: notes/part03/assignment03
     - file: notes/part03/lab03A
-#     - file: notes/part03/lab03B
+    - file: notes/part03/lab03B
 
 
 # - caption: Part 4 - MongoDB
