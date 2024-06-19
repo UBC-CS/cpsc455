@@ -39,9 +39,11 @@ parts:
     - file: notes/part03/lab03B
 
 
-# - caption: Part 4 - MongoDB
-#   maxdepth: 1
-#   chapters:
+- caption: Part 4 - MongoDB
+  maxdepth: 1
+  chapters:
+    - file: notes/part04/workshop04
+      title: Workshop 4
 #     - file: notes/part04/lab4B
 
 # - caption: Part 5 - Release Engineering
