@@ -98,5 +98,5 @@ Create an Atlas Sandbox Cluster
 ## Technical Content slides
 
 <div>
-<iframe src="" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIEMSv_WK4_trygna0cBkKnUy-Gmb53V-Cdu6iPVF_RIz2r5ioJI5cCameVQrjIwuCz5g5hjd_PLUG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
