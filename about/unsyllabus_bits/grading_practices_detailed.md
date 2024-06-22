@@ -2,7 +2,7 @@ The grading scheme for this course is:
 
 | Item             | Weight        | Due date(s)     |
 |------------------|---------------|-----------------|
-| Team Project     | 50% (5 x 8%)  | Bi-monthly      |
+| Team Project     | 50% (5 x 10%)  | Bi-monthly      |
 | Lab Assignments  | 30% (6 x 5%)  | TBD             |
 | Participation    | 11% (11 x 1%) | Weekly          |
 | Teamwork         | 9% (2 x 4.5%) | TBD             |
