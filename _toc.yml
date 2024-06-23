@@ -1,76 +1,76 @@
 format: jb-book
 root: about/syllabus
 parts:
-- caption: About this course
-  chapters:
-  # - file: about/syllabus
-  - file: about/course_schedule
-  - file: about/rubrics
-  - file: about/waitlist
-  # - file: about/accommodations
-  # - file: about/doing_well
-  # - file: about/faq
+  - caption: About this course
+    chapters:
+      # - file: about/syllabus
+      - file: about/course_schedule
+      - file: about/rubrics
+      - file: about/waitlist
+    # - file: about/accommodations
+    # - file: about/doing_well
+    # - file: about/faq
 
-- caption: Part 1 - Getting Started
-  maxdepth: 1
-  chapters:
-    - file: notes/part01/workshop01
-      title: Workshop 1
-    - file: notes/part01/assignment01
-    - file: notes/part01/lab01A
-    - file: notes/part01/lab01B
+  - caption: Part 1 - Getting Started
+    maxdepth: 1
+    chapters:
+      - file: notes/part01/workshop01
+        title: Workshop 1
+      - file: notes/part01/assignment01
+      - file: notes/part01/lab01A
+      - file: notes/part01/lab01B
 
-- caption: Part 2 - React
-  maxdepth: 1
-  chapters:
-    - file: notes/part02/workshop02
-      title: Workshop 2
-    - file: notes/part02/assignment02
-    - file: notes/part02/lab02A
-    - file: notes/part02/lab02B
+  - caption: Part 2 - React
+    maxdepth: 1
+    chapters:
+      - file: notes/part02/workshop02
+        title: Workshop 2
+      - file: notes/part02/assignment02
+      - file: notes/part02/lab02A
+      - file: notes/part02/lab02B
 
-- caption: Part 3 - NodeJS
-  maxdepth: 1
-  chapters:
-    - file: notes/part03/workshop03
-      title: Workshop 3
-    - file: notes/part03/assignment03
-    - file: notes/part03/lab03A
-    - file: notes/part03/lab03B
+  - caption: Part 3 - NodeJS
+    maxdepth: 1
+    chapters:
+      - file: notes/part03/workshop03
+        title: Workshop 3
+      - file: notes/part03/assignment03
+      - file: notes/part03/lab03A
+      - file: notes/part03/lab03B
 
+  - caption: Part 4 - MongoDB
+    maxdepth: 1
+    chapters:
+      - file: notes/part04/workshop04
+        title: Workshop 4
+      - file: notes/part04/assignment04
+      - file: notes/part04/lab4A
+      - file: notes/part04/lab4B
 
-- caption: Part 4 - MongoDB
-  maxdepth: 1
-  chapters:
-    - file: notes/part04/workshop04
-      title: Workshop 4
-    - file: notes/part04/assignment04
+  # - caption: Part 5 - Release Engineering
+  #   maxdepth: 1
+  #   chapters:
+  #     - file: notes/part05/lab05A
+  #     - file: notes/part05/lab05B
 
-#     - file: notes/part04/lab4B
+  # - caption: Part 6 - Networking
+  #   maxdepth: 1
+  #   chapters:
+  #     - file: notes/part06/lab06A
+  #     - file: notes/part06/lab06B
 
-# - caption: Part 5 - Release Engineering
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/part05/lab05B
+  - caption: Course Project
+    chapters:
+      - file: notes/project/team_formation
+      - file: notes/project/progress01
+      - file: notes/project/progress02
+      - file: notes/project/progress03
+      - file: notes/project/progress04
 
-# - caption: Part 6 - Networking
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/part06/lab06B
-
-- caption: Course Project
-  chapters:
-  - file: notes/project/team_formation
-  - file: notes/project/progress01
-  - file: notes/project/progress02
-  - file: notes/project/progress03
-  - file: notes/project/progress04
-
-- caption: Course Feedback
-  chapters:
-  - file: about/feedback
-    title: Anonymous Feedback Form
-
+  - caption: Course Feedback
+    chapters:
+      - file: about/feedback
+        title: Anonymous Feedback Form
 # - caption: Tools
 #   chapters:
 #   - file: tools/ed_discussion/ed_discussion
