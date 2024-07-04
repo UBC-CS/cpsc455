@@ -26,5 +26,5 @@ You may certainly borrow code from your assignment, but make sure you’re showi
 
 ## How to hand in:
 
-When you are ready, create a branch titled “project_3. Push your finalized code to that branch. 
+When you are ready, create a branch titled “project_4. Push your finalized code to that branch. 
 Do not push to this branch after 10AM PT on the day of Workshop 5.
