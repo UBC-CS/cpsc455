@@ -53,7 +53,9 @@ Below are the slides from today's class embedded and [linked here]().
 
 Configuring `mongosh` on macOS is not necessary as long as you used `homebrew` to do the installation as specified above.
 
-In a Terminal window, run the command: `brew install mongosh`, you should see an image like this if things are working correctly:
+In a Terminal window, run the command: `brew install mongosh`.
+
+After installing it, run `mongosh` to start, and you should see an image like this if things are working correctly:
 
 ![](images/mongosh_mac.png)
 
