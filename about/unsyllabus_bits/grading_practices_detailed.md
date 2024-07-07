@@ -1,11 +1,16 @@
 The grading scheme for this course is:
 
-| Item             | Weight        | Due date(s)     |
-|------------------|---------------|-----------------|
-| Team Project     | 50% (5 x 10%)  | Bi-monthly      |
-| Lab Assignments  | 30% (6 x 5%)  | TBD             |
-| Participation    | 11% (11 x 1%) | Weekly          |
-| Teamwork         | 9% (2 x 4.5%) | TBD             |
+```{tip}
+Prior to July 7th 2024, Participation was set to 11% and Teamwork was set to 9%, now it's an even 10/10 split. This change was made to make accounting easier, and since we no longer require students to attend the lab sections.
+```
+
+| Item            | Weight        | Due date(s) |
+|-----------------|---------------|-------------|
+| Team Project    | 50% (5 x 10%) | Bi-monthly  |
+| Lab Assignments | 30% (6 x 5%)  | TBD         |
+| Participation   | 10%           | Weekly      |
+| Teamwork        | 10%           | TBD         |
+
 
 ```{attention}
 Our expectation is that all team members will contribute substantially to the project, and will be scored by both the participation and teamwork components.
