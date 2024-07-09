@@ -12,6 +12,10 @@ The theoretical portion will be presented by an industry expert (Dorothy Ordogh)
 
 Here is a recorded video (click the image) from Dorothy from last year:
 
+```{tip}
+The password for the video recording will be shared with you on Slack.
+```
+
 <a href="https://ubc.zoom.us/rec/share/a0RGCncyD58TxcnNc0Z3i1ZjodrdfSOZkTgaM91_vh5IIK0HFpP47wo6zL-k7F-p.-6P0h86FrfQwh3WJ"><img src="images/cover.png"></a>
 
 Here are the slides from Dorothy Ordogh:
