@@ -1,6 +1,8 @@
 # Progress 5
 
+```{tip}
 Advice: Spend some time ASAP with your group deciding what functionality/goals you plan to complete over the last <4 weeks. Divide the goals into bite-sized chunks, and make concrete plans to incrementally tackle each part. Wrap up the major functionality of your app.
+```
 
 ## Project Requirements:
 
