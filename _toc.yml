@@ -47,10 +47,12 @@ parts:
     - file: notes/part04/lab4A
     - file: notes/part04/lab4B
 
-# - caption: Part 5 - Release Engineering
-#   maxdepth: 1
-#   chapters:
-#     - file: notes/part05/lab05B
+- caption: Part 5 - Release Engineering
+  maxdepth: 1
+  chapters:
+    - file: notes/part05/workshop05
+      title: Workshop 5
+    # - file: notes/part05/lab05B
 
 # - caption: Part 6 - Networking
 #   maxdepth: 1
