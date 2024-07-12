@@ -6,7 +6,7 @@ Advice: Spend some time ASAP with your group deciding what functionality/goals y
 
 ## Project Requirements:
 
-Must be completed with your group before workshop 5.
+Must be completed with your group before workshop 6.
 
 - Deploy your project using GitHub Actions! 
     - Course staff are familiar with Heroku (and should be covered in assignment 5), but you may host it elsewhere if you wish.
