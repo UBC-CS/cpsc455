@@ -9,7 +9,7 @@ Advice: Spend some time ASAP with your group deciding what functionality/goals y
 Must be completed with your group before workshop 6.
 
 - Deploy your project using GitHub Actions! 
-    - Course staff are familiar with Heroku (and should be covered in assignment 5), but you may host it elsewhere if you wish.
+    - You’re free to host wherever you’d like (probably whatever you used for assignment 5).
 - Add a [workflow status badge](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge) in your README file
 - Attempt to complete ALL of your remaining standard goals. If you cannot finish some of the goals by the next workshop, explain why they are not achievable, or give your plan for completing them before the final presentations.
 - Write a quick, 2-3 sentence high-level description of your project for someone who has never seen your project before, and put it at the top of your README. This will go to the industry guests, so please make sure that it is suitable for posting publicly. (Sell your web app!)
