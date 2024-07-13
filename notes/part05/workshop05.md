@@ -26,8 +26,15 @@ Here are the slides from Dorothy Ordogh:
 
 ## Practical Portion (Live on Saturday)
 
-Coming soon...
+<div>
+<iframe src="../../github_actions.pdf" width="100%" height="600px" frameBorder="0"> </iframe>
+</div>
 
 ### Pre-Workshop Tasks
 
-TBD
+N/A
+
+### Tasks during Workshop
+
+- Accept [Workshop 6 repository](https://classroom.github.com/a/c_ZEKiyH)
+- Create a [Render.com](https://render.com) account
