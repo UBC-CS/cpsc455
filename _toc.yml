@@ -52,6 +52,8 @@ parts:
   chapters:
     - file: notes/part05/workshop05
       title: Workshop 5
+    - file: notes/part05/assignment05
+
     # - file: notes/part05/lab05B
 
 # - caption: Part 6 - Networking
