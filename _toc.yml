@@ -56,9 +56,10 @@ parts:
 
     # - file: notes/part05/lab05B
 
-# - caption: Part 6 - Networking
-#   maxdepth: 1
-#   chapters:
+- caption: Part 6 - Networking
+  maxdepth: 1
+  chapters:
+    - file: notes/part06/assignment06
 #     - file: notes/part06/lab06B
 
 - caption: Course Project
