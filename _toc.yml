@@ -72,6 +72,8 @@ parts:
   - file: notes/project/progress03
   - file: notes/project/progress04
   - file: notes/project/progress05
+  - file: notes/project/progress06
+
 
 - caption: Course Feedback
   chapters:
