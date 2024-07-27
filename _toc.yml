@@ -59,6 +59,8 @@ parts:
 - caption: Part 6 - Networking
   maxdepth: 1
   chapters:
+    - file: notes/part06/workshop06
+      title: Workshop 6
     - file: notes/part06/assignment06
 #     - file: notes/part06/lab06B
 
